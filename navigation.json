@@ -1,0 +1,58 @@
+[
+    {
+        "title": "မိတ်ဆက် (Introduction)",
+        "links": [
+            {
+                "title": "Getting Started",
+                "url": "getting-started"
+            },
+            {
+                "title": "Code Run ခြင်း",
+                "url": "installation"
+            }
+        ]
+    },
+    {
+        "title": "Feature များ (Core Concepts)",
+        "links": [
+            {
+                "title": "Features Overview",
+                "url": "features"
+            }
+        ]
+    },
+    {
+        "title": "လမ်းညွှန်များ (Guides)",
+        "links": [
+            {
+                "title": "Workspace သုံးနည်း",
+                "url": "workspace"
+            },
+            {
+                "title": "Projects စီမံနည်း",
+                "url": "projects"
+            },
+            {
+                "title": "Tutorials ကြည့်နည်း",
+                "url": "tutorials"
+            },
+            {
+                "title": "Notifications",
+                "url": "notifications"
+            }
+        ]
+    },
+    {
+        "title": "ကိုးကားရန် (Reference)",
+        "links": [
+            {
+                "title": "Block များ အသုံးပြုနည်း",
+                "url": "block-reference"
+            },
+            {
+                "title": "အမေးများသော မေးခွန်းများ (FAQ)",
+                "url": "faq"
+            }
+        ]
+    }
+]
