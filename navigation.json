@@ -29,16 +29,34 @@
                 "url": "workspace"
             },
             {
-                "title": "Projects စီမံနည်း",
-                "url": "projects"
-            },
-            {
                 "title": "Tutorials ကြည့်နည်း",
                 "url": "tutorials"
+            }
+        ]
+    },
+    {
+        "title": "Projects 📁",
+        "links": [
+            {
+                "title": "Projects ဖန်တီးနည်း",
+                "url": "projects"
+            }
+        ]
+    },
+    {
+        "title": "Social & Community 💬",
+        "links": [
+            {
+                "title": "Messages စာပို့စနစ်",
+                "url": "messaging"
             },
             {
-                "title": "Notifications",
+                "title": "Notifications ကြည့်နည်း",
                 "url": "notifications"
+            },
+            {
+                "title": "Public Profile သုံးနည်း",
+                "url": "profile"
             }
         ]
     },
