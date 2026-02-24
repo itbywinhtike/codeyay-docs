@@ -53,12 +53,24 @@ Login ဝင်ပြီးသည်နှင့် **Dashboard > Public Project
 
 Project တစ်ခုကို ကြည့်ပြီး feedback ပေးနိုင်သည်—
 
-**Reaction** — ❤️ heart icon ကိုနှိပ်ပြီး like ပေးနိုင်သည်။ ထပ်နှိပ်ပါက unlike ဖြစ်သည်။
+**Reaction** — Project တစ်ခုပေါ်မှာ **👍 Like / ❤️ Love / 😮 Wow** တစ်ခုကို ရွေးချယ်နှိပ်နိုင်ပြီး ထပ်နှိပ်ပါက ဖျက်သိမ်းနိုင်သည်
 
 **Comment**
 - Comment box တွင် ထည့်ပြီး post နှိပ်ပါ
-- Comment ကိုလည်း react လုပ်နိုင်သည်
+- Comment ကိုလည်း 👍 / 👎 react လုပ်နိုင်သည်
 - ကိုယ်ပိုင် comment ကို delete လုပ်နိုင်သည်
+
+---
+
+## 👤 Profile Picture ရွေးချယ်ခြင်း
+
+User တိုင်း မိမိ Profile Picture ကို **Avatar ၄၀ ခုမှ** ကြဲပြည့် ကိုယ်တိုင် ရွေးချယ်နိုင်သည်။
+
+- မိမိ Profile Page ၏ Avatar အပေါ် Camera icon (📷) ကိုနှိပ်ပါ
+- Avatar Picker popup ထဲမှ ကြိုက်သော avatar ကို ရွေးပြီး Save နှိပ်ပါ
+- Profile Page နှင့် Platform တစ်ခုလုံးတွင် avatar ချက်ချင်းပြောင်းသွားမည်
+
+➡️ [Profile ပြောင်းနည်း →](profile)
 
 ---
 
