@@ -10,9 +10,21 @@ CodeYay ၏ အဓိက feature ဖြစ်သည်။ Code line များ
 
 - Loop, Condition, Variable, Function block များ built-in ပါဝင်
 - Real-time ဖြင့် code output မြင်နိုင်
+- မြန်မာနိုင်ငံ၏ ပထမဆုံး Browser ပေါ်မှတဆင့် Hardware (Arduino) သို့ Code တိုက်ရိုက် Upload လုပ်နိုင်စွမ်း
 - Project ကို ကြိုက်သလို save/publish လုပ်နိုင်
 
 ➡️ [Workspace ကိုဘယ်လိုသုံးမလဲ →](workspace)
+
+---
+
+## 🚀 Direct Hardware Upload (New!)
+
+CodeYay ၏ အသက်သွေးကြောအသစ်အနေဖြင့် Arduino IDE သီးသန့်ဖွင့်စရာမလိုဘဲ Website ပေါ်မှနေ၍ Hardware ထဲသို့ Code တိုက်ရိုက် သွင်းနိုင်ပြီဖြစ်သည်။
+
+- Windows, Mac တွင် Chrome / Edge Browser ဖြင့် အလွယ်တကူ အသုံးပြုနိုင်သည်
+- Arduino Uno, Mega, Nano စသည့် board များကို support ပေးသည်
+- Code ကို Server ပေါ်တွင် Compile လုပ်သဖြင့် PC ၏ စွမ်းဆောင်ရည်အပေါ် မမှီခိုပါ
+- Web Serial API ကို အသုံးပြုထား၍ လုံခြုံစိတ်ချရသည်
 
 ---
 
