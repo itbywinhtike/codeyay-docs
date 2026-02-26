@@ -94,6 +94,22 @@ Computer USB မှတစ်ဆင့် Arduino ဘုတ်များသိ�
 
 ---
 
+## 🤖 AI Tools in Workspace
+
+Workspace ထဲတွင် သင်၏ coding ကို ကူညီပေးမည့် AI tool ၂ ခု ပါဝင်ပါသည်။
+
+### 1. AI Assistant (ညာဘက်အောက်ခြေ)
+- AI နှင့် တိုက်ရိုက် Chat မေးမြန်းနိုင်ပါသည်။
+- သင်၏ block code များကို နားလည်ပြီး မြန်မာလို ရှင်းပြပေးနိုင်ပါသည်။
+
+### 2. AI Code Simulator (Code Area အပေါ်)
+- **"AI Simulate"** ခလုတ်ကို နှိပ်၍ logic စစ်ဆေးနိုင်ပါသည်။
+- Code အမှားများကို AI က ထောက်ပြပေးပါမည်။
+
+➡️ [AI Features အသေးစိတ် →](ai)
+
+---
+
 ## 🔄 Auto-Save & Revision (အလိုအလျောက်သိမ်းဆည်းခြင်း)
 
 CodeYay Workspace သည် **Auto-save (အလိုအလျောက် သိမ်းဆည်းခြင်း)** စနစ်ကို အသုံးပြုထားပါသည်။

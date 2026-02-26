@@ -28,6 +28,18 @@ CodeYay ၏ အသက်သွေးကြောအသစ်အနေဖြင�
 
 ---
 
+## 🤖 AI Powered Features (New!)
+
+CodeYay တွင် AI ကို အသုံးပြု၍ coding မြန်မာလို သင်ကြားပေးခြင်းနှင့် code logic များ စစ်ဆေးပေးခြင်းတို့ကို ပြုလုပ်နိုင်ပါပြီ။
+
+- **AI Assistant**: Workspace ထဲတွင် တိုက်ရိုက်မေးမြန်းနိုင်သော AI Tutor
+- **AI Simulator**: Code Logic များ မှန်မမှန် AI ဖြင့် အလိုအလျောက် စစ်ဆေးပေးခြင်း
+- **Burmese Language**: မြန်မာလို အသေးစိတ် ရှင်းပြပေးနိုင်စွမ်း
+
+➡️ [AI Features အကြောင်း အသေးစိတ်ဖတ်ရန် →](ai)
+
+---
+
 ## 📁 Projects
 
 Project တစ်ခုဆိုသည်မှာ Workspace ထဲတွင် ဆောက်ထားသော ကိုယ်ပိုင် coding creation တစ်ခုဖြစ်သည်။
